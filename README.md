@@ -1,2 +1,2 @@
-# Applied_Regression_Model_Notre_Dame_Class
-This repo contains all the R codes associated with the Applied Regression Model class at University of Notre Dame.
+# Notre Dame Statistics Courses
+This repo contains all the codes for the Statistics courses I have taken at University of Notre Dame.
